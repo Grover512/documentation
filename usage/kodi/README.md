@@ -27,7 +27,6 @@ Click `OK` and your Pi will reboot into the distribution you selected.
 ## Using Kodi
 
 Now you've got your Kodi distribution installed, you can play media files, configure the system, and install add-ons to add more functionality.
-
 You may be shown a Welcome screen, which will help you configure your setup and get started.
 
 ![LibreELEC welcome screen](images/openelec-main.png)
